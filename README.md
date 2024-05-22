@@ -6,6 +6,9 @@
   컴퓨터정보 보안학과
   소프트웨어 보안학과
 
+## 프로젝트 목록
+### IT융합학부
+  
 <!--
 **sssssyj/sssssyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
