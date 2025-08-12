@@ -1,3 +1,4 @@
+<!--
 ## 송영진 입니다.
   1. 안녕하세요 저는 우송대학교에서 공부하고 있습니다.
   2. 지금은 IT융합학부의 수업을 진행 중입니다.
@@ -9,7 +10,7 @@
 ## 프로젝트 목록
 ### IT융합학부
   
-<!--
+
 **sssssyj/sssssyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
